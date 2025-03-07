@@ -1,4 +1,4 @@
-# LLM to SQL Query Generator
+# Text to SQL Query Generator
 
 A web application that converts natural language questions into SQL queries using large language models (LLMs).
 
@@ -32,7 +32,7 @@ The application uses Ollama to run local LLMs (primarily CodeLlama) for processi
 
 1. Clone this repository
 ```bash
-git clone https://github.com/Shayan5422/LLM_to_sql.git
+git clone https://github.com/Shayan5422/Text_to_sql.git
 cd LLM_to_sql
 ```
 
